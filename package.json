@@ -1,5 +1,5 @@
 {
-  "version": "12.1.0",
+  "version": "12.1.1",
   "name": "react-native-svg-animation-fix",
   "description": "SVG library for react-native",
   "homepage": "https://github.com/bardliu/react-native-svg",
@@ -93,6 +93,7 @@
     "preset": "react-native"
   },
   "release": {
+    "ci": false,
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",

@@ -1,3 +1,10 @@
+## [12.1.1](https://github.com/bardliu/react-native-svg/compare/v12.1.0...v12.1.1) (2021-01-07)
+
+
+### Bug Fixes
+
+* strokeDasharray failed to use animation with "useNativeDriver: true" attribute. ([4cc51ce](https://github.com/bardliu/react-native-svg/commit/4cc51cef985e9cadef135ba586b62dcfc070a35d))
+
 # [12.1.0](https://github.com/react-native-community/react-native-svg/compare/v12.0.3...v12.1.0) (2020-04-09)
 
 
